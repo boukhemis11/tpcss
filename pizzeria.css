@@ -1,0 +1,35 @@
+body {
+    background-color:  #EFECCA;
+    font-family: 'Helvetica', 'Arial';
+}
+
+h1{
+    color: #C03000;
+}
+
+h2{
+    color: #4BB5C1;
+}
+
+li{
+    border: 1px solid #660000;
+    background-color: #C03000;
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+
+li a{
+    color: #EFECCA;
+    text-decoration: none;
+}
+
+li:hover{
+    background-color: #009900;
+}
+
+footer a{
+    color: #0000FF;
+    text-decoration: none;
+    font-weight: bold;
+}
